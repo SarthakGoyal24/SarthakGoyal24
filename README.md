@@ -1,5 +1,0 @@
-- 👋 Hi, I’m @Sarthak
-- 👀 I’m interested in coding, lawn tennis, gaming and reading.
-- 🌱 I’m currently learning Operating Systems and JScript
-- 💞️ I’m looking to collaborate on future open source projects.
-- 📫 How to reach me sarthak-goyal@outlook.com
